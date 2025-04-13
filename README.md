@@ -1,4 +1,4 @@
-# Live Traffic Tracker
+# Live Traffic Tracker: created by Vishwanathan27 using vibe coding practices 
 
 A real-time traffic monitoring application built with Next.js and Google Maps API.
 
